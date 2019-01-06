@@ -1,2 +1,2 @@
 # hello-world
-A get started repository
+A 'get started' in github repository
